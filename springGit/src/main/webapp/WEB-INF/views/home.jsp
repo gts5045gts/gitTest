@@ -6,11 +6,11 @@
 </head>
 <body>
 <h1>
-<<<<<<< HEAD
-	Hello world!  add
+
+	Hello world!  addddd
 =======
 commit
->>>>>>> branch 'master' of https://github.com/gts5045gts/gitTest.git
+
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
