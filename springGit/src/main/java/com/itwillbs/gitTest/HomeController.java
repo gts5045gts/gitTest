@@ -34,8 +34,12 @@ public class HomeController {
 		model.addAttribute("serverTime", formattedDate );
 		
 		return "home";
-		
+
+
 		//안녕하세요
+
+		//Ŀ��Ʈ ���� 1
+
 	}
 	
 }
